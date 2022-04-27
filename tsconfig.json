@@ -1,0 +1,8 @@
+{
+    "compilerOptions": {
+        "target": "ES6",
+        "outDir": "build",
+        // cuando haya errores que no lo compile a js
+        "noEmitOnError": true
+    }
+}
